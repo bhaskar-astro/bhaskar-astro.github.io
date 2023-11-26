@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download File Here] (https://bhaskar-astro.github.io/files/cv.pdf)
+<a href="https://bhaskar-astro.github.io/files/cv.pdf" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Download File Here (updated November 26th 2023)</a>.
