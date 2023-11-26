@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
- You can also find my articles on <u><a href="{{https://inspirehep.net/authors/1824615}}">my InspireHep profile</a>.</u>
+ You can find my articles on <a href="https://inspirehep.net/authors/1824615" style="color: blue; text-decoration: underline;text-decoration-style: dotted;>my InspireHep profile</a>.
 
